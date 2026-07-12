@@ -1,0 +1,32 @@
+command_id: 713.77D.221816|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BRAKE_P_SNS: 79.88
+  response: |-
+    77D100A621816001F34
+    77D21007D048AAAAAAA
+- expected_values:
+    VOLKSWAGEN_BRAKE_P_SNS: 79.92
+  response: |-
+    77D100A621816001F38
+    77D21007E048BAAAAAA
+- expected_values:
+    VOLKSWAGEN_BRAKE_P_SNS: 79.92
+  response: |-
+    77D100A621816001F38
+    77D21007F048AAAAAAA
+- expected_values:
+    VOLKSWAGEN_BRAKE_P_SNS: 79.98
+  response: |-
+    77D100A621816011F3E
+    77D2100800487AAAAAA
+- expected_values:
+    VOLKSWAGEN_BRAKE_P_SNS: 80.54
+  response: |-
+    77D100A621816011F76
+    77D2100920475AAAAAA
+- expected_values:
+    VOLKSWAGEN_BRAKE_P_SNS: 81.88
+  response: |-
+    77D100A621816011FFC
+    77D2100BE044AAAAAAA

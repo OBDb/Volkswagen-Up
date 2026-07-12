@@ -1,0 +1,9 @@
+command_id: 744.7AE.221507|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CHRGR_RAIL1_E: 54.7
+    VOLKSWAGEN_CHRGR_RAIL2_E: 34.8
+    VOLKSWAGEN_CHRGR_RAIL3_E: 0
+  response: |-
+    7AE100C621507000223
+    7AE2100015C00000000

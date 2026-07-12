@@ -1,0 +1,8 @@
+command_id: 7E5.7ED.221E1E|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BMS_I_DCHG_LIM_PRED: 0
+  response: 7ED05621E1E0000
+- expected_values:
+    VOLKSWAGEN_BMS_I_DCHG_LIM_PRED: 232
+  response: 7ED05621E1E00E8

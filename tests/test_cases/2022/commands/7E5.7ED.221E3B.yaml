@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.221E3B
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BMS_CELL_V_SUM: 123.4
+    VOLKSWAGEN_HVBAT_VOLTS: 308.5
+  response: 7ED05621E3B04D2
+- expected_values:
+    VOLKSWAGEN_BMS_CELL_V_SUM: 127.7
+    VOLKSWAGEN_HVBAT_VOLTS: 319.25
+  response: 7ED05621E3B04FD
+- expected_values:
+    VOLKSWAGEN_BMS_CELL_V_SUM: 128.1
+    VOLKSWAGEN_HVBAT_VOLTS: 320.25
+  response: 7ED05621E3B0501

@@ -1,0 +1,18 @@
+command_id: 7E5.7ED.221E0E|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BMS_T_MAX: -94
+    VOLKSWAGEN_BMS_T_MAX_CELL: 172
+  response: 7ED07621E0E06AC0009
+- expected_values:
+    VOLKSWAGEN_BMS_T_MAX: -93
+    VOLKSWAGEN_BMS_T_MAX_CELL: 100
+  response: 7ED07621E0E07640002
+- expected_values:
+    VOLKSWAGEN_BMS_T_MAX: -93
+    VOLKSWAGEN_BMS_T_MAX_CELL: 170
+  response: 7ED07621E0E07AA0001
+- expected_values:
+    VOLKSWAGEN_BMS_T_MAX: -93
+    VOLKSWAGEN_BMS_T_MAX_CELL: 248
+  response: 7ED07621E0E07F80001
