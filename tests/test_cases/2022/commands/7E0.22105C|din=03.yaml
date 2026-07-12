@@ -1,0 +1,23 @@
+command_id: 7E0.22105C|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_GEN_LOAD: 0.14
+  response: 7E80562105C000E
+- expected_values:
+    VOLKSWAGEN_PQ35_GEN_LOAD: 0.26
+  response: 7E80562105C001A
+- expected_values:
+    VOLKSWAGEN_PQ35_GEN_LOAD: 0.32
+  response: 7E80562105C0020
+- expected_values:
+    VOLKSWAGEN_PQ35_GEN_LOAD: 0.86
+  response: 7E80562105C0056
+- expected_values:
+    VOLKSWAGEN_PQ35_GEN_LOAD: 100
+  response: 7E80562105CFFF9
+- expected_values:
+    VOLKSWAGEN_PQ35_GEN_LOAD: 100
+  response: 7E80562105CFFFA
+- expected_values:
+    VOLKSWAGEN_PQ35_GEN_LOAD: 100
+  response: 7E80562105CFFFB

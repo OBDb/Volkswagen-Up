@@ -1,0 +1,8 @@
+command_id: 713.77D.22180E|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BDD_ACTIVE: 0
+    VOLKSWAGEN_BDD_ODO: 35998
+  response: |-
+    77D100862180E00008C
+    77D219E00AAAAAAAAAA

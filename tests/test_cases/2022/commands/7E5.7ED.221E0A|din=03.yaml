@@ -1,0 +1,8 @@
+command_id: 7E5.7ED.221E0A|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BMS_PWR_REDUCE_ACT: 0
+  response: 7ED04621E0A00
+- expected_values:
+    VOLKSWAGEN_BMS_PWR_REDUCE_ACT: 127
+  response: 7ED04621E0A7F

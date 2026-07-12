@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221131
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_3_START: 20.3
+  response: 7E80562113103F7
+- expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_3_START: 36.2
+  response: '7E8056211310712'
+- expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_3_START: 89.88
+  response: 7E805621131118E
