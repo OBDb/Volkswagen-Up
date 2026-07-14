@@ -7,8 +7,8 @@ test_cases:
     VOLKSWAGEN_HVBAT_SOC_DISP: 62.38
   response: 7E805621164185E
 - expected_values:
-    VOLKSWAGEN_HVBAT_SOC_DISP: 64.13
-  response: 7E805621164190D
+    VOLKSWAGEN_HVBAT_SOC_DISP: 79.47
+  response: 7E8056211641F0B
 - expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 89.56
   response: 7E80562116422FC
