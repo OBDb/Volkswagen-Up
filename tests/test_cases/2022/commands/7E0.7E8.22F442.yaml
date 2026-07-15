@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_VPWR: 14.347
   response: 7E80562F442380B
+- expected_values:
+    VOLKSWAGEN_VPWR: 14.63
+  response: 7E80562F4423926

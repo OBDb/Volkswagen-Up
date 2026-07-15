@@ -1,6 +1,14 @@
 command_id: 7E5.7ED.221E0F|din=03
 test_cases:
 - expected_values:
+    VOLKSWAGEN_BMS_T_MIN: -95
+    VOLKSWAGEN_BMS_T_MIN_CELL: 190
+  response: 7ED07621E0F05BE0005
+- expected_values:
+    VOLKSWAGEN_BMS_T_MIN: -95
+    VOLKSWAGEN_BMS_T_MIN_CELL: 196
+  response: 7ED07621E0F05C40005
+- expected_values:
     VOLKSWAGEN_BMS_T_MIN: -94
     VOLKSWAGEN_BMS_T_MIN_CELL: 4
   response: 7ED07621E0F06040005
@@ -16,7 +24,3 @@ test_cases:
     VOLKSWAGEN_BMS_T_MIN: -93
     VOLKSWAGEN_BMS_T_MIN_CELL: 100
   response: 7ED07621E0F0764000B
-- expected_values:
-    VOLKSWAGEN_BMS_T_MIN: -93
-    VOLKSWAGEN_BMS_T_MIN_CELL: 178
-  response: 7ED07621E0F07B2000B

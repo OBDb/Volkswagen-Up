@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_HVBAT_CURRENT: -123
   response: 7ED05621E3D0610
 - expected_values:
-    VOLKSWAGEN_HVBAT_CURRENT: 0.25
-  response: 7ED05621E3D07FD
+    VOLKSWAGEN_HVBAT_CURRENT: 0.75
+  response: 7ED05621E3D07FF
 - expected_values:
     VOLKSWAGEN_HVBAT_CURRENT: 2.75
   response: 7ED05621E3D0807
