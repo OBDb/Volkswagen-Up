@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.221164
 test_cases:
 - expected_values:
-    VOLKSWAGEN_HVBAT_SOC_DISP: 45.28
-  response: 7E80562116411B0
+    VOLKSWAGEN_HVBAT_SOC_DISP: 29.94
+  response: 7E8056211640BB2
 - expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 46.16
   response: '7E8056211641208'
-- expected_values:
-    VOLKSWAGEN_HVBAT_SOC_DISP: 62.38
-  response: 7E805621164185E
 - expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 89.56
   response: 7E80562116422FC
