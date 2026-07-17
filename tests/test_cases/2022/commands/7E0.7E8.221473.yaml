@@ -10,5 +10,5 @@ test_cases:
     VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_2: 12.6
   response: 7E80562147300FC
 - expected_values:
-    VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_2: 12.85
-  response: '7E8056214730101'
+    VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_2: 13.7
+  response: '7E8056214730112'
