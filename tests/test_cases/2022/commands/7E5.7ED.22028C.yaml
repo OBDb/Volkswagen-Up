@@ -1,9 +1,9 @@
 command_id: 7E5.7ED.22028C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_BMS_SOC: 82
-    VOLKSWAGEN_HVBAT_SOC: 32.15686
-  response: 7ED0462028C52
+    VOLKSWAGEN_BMS_SOC: 38
+    VOLKSWAGEN_HVBAT_SOC: 14.90196
+  response: 7ED0462028C26
 - expected_values:
     VOLKSWAGEN_BMS_SOC: 100
     VOLKSWAGEN_HVBAT_SOC: 92.94118
