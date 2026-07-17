@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_BAT_V_2: 0
   response: 7E80762105E00000000
+- expected_values:
+    VOLKSWAGEN_PQ35_BAT_V_2: 1310.7
+  response: 7E80762105EFFFFFB64
