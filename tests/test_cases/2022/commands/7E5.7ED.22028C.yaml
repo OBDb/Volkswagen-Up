@@ -6,5 +6,5 @@ test_cases:
   response: 7ED0462028C26
 - expected_values:
     VOLKSWAGEN_BMS_SOC: 100
-    VOLKSWAGEN_HVBAT_SOC: 92.94118
-  response: 7ED0462028CED
+    VOLKSWAGEN_HVBAT_SOC: 93.33333
+  response: 7ED0462028CEE

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221116
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 30.51
+  response: 7E8056211160BEB
+- expected_values:
     VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 30.71
   response: 7E8056211160BFF
 - expected_values:

@@ -4,5 +4,8 @@ test_cases:
     VOLKSWAGEN_RANGE_DSP: 26
   response: 77E056222E0001A
 - expected_values:
-    VOLKSWAGEN_RANGE_DSP: 237
-  response: 77E056222E000ED
+    VOLKSWAGEN_RANGE_DSP: 255
+  response: 77E056222E000FF
+- expected_values:
+    VOLKSWAGEN_RANGE_DSP: 276
+  response: 77E056222E00114

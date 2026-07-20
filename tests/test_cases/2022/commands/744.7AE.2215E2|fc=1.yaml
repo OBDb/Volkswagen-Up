@@ -1,8 +1,8 @@
 command_id: 744.7AE.2215E2|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CHRGR_COOLANT_T: 31
-  response: 7AE046215E247
+    VOLKSWAGEN_CHRGR_COOLANT_T: 28
+  response: 7AE046215E244
 - expected_values:
     VOLKSWAGEN_CHRGR_COOLANT_T: 55
   response: 7AE046215E25F
