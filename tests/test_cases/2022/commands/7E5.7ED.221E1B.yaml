@@ -1,8 +1,10 @@
-command_id: 7E5.7ED.221E1B|din=03
+command_id: 7E5.7ED.221E1B
 test_cases:
 - expected_values:
     VOLKSWAGEN_BMS_I_CHG_LIM_DYN: 0
+    VOLKSWAGEN_HVBAT_CHG_I_LIM: 0
   response: 7ED05621E1B0000
 - expected_values:
     VOLKSWAGEN_BMS_I_CHG_LIM_DYN: 154
+    VOLKSWAGEN_HVBAT_CHG_I_LIM: 0
   response: 7ED05621E1B009A
