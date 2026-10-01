@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221150
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24650
+  response: 7E805621150604A
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24651
+  response: 7E805621150604B
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24653
+  response: 7E805621150604D
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24654
+  response: 7E805621150604E
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24656
+  response: '7E8056211506050'
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24659
+  response: '7E8056211506053'
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24660
+  response: '7E8056211506054'
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24661
+  response: '7E8056211506055'
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24662
+  response: '7E8056211506056'
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 24663
+  response: '7E8056211506057'
