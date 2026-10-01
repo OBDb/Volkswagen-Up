@@ -1,5 +1,6 @@
 command_id: 744.7AE.2215D6|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CHG_EFFICIENCY: 100.4
     VOLKSWAGEN_CHRGR_EFFICIENCY: 100.4
   response: 7AE046215D6FE
