@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: -16.2
+  response: 7E8056211E0FF5E
