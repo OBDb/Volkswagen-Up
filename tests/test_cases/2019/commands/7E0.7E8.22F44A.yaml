@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22F44A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_POS_2: 14.5098
+    VOLKSWAGEN_ACCEL_POS_2: 14.5098
+    VOLKSWAGEN_APP2: 14.5098
+  response: 7E80462F44A25

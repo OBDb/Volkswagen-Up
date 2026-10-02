@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2215E7
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EFFECTIVE_INJ_DUR: 2.509
+  response: 7E8076215E7000009CD

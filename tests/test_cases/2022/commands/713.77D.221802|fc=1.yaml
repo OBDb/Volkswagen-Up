@@ -3,6 +3,7 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_RL_VSS: 0
     VOLKSWAGEN_RL_VSS_V2: 0
+    VOLKSWAGEN_RL_VSS_V2_RAW: 0
   response: |-
     77D10116218020000FF
     77D21FFFFFEFFFFFFFE
@@ -10,6 +11,7 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_RL_VSS: 25.5
     VOLKSWAGEN_RL_VSS_V2: 25.5
+    VOLKSWAGEN_RL_VSS_V2_RAW: 255
   response: |-
     77D101162180200FFFF
     77D21FFFFFEFFFFFFFE
@@ -17,6 +19,7 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_RL_VSS: 46.9
     VOLKSWAGEN_RL_VSS_V2: 46.9
+    VOLKSWAGEN_RL_VSS_V2_RAW: 469
   response: |-
     77D101162180201D500
     77D210000FE000000FE
@@ -24,6 +27,7 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_RL_VSS: 797.6
     VOLKSWAGEN_RL_VSS_V2: 797.6
+    VOLKSWAGEN_RL_VSS_V2_RAW: 7976
   response: |-
     77D10116218021F28FF
     77D21FFFFFEFFFFFFFE
