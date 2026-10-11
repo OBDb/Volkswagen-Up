@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.22F430
 test_cases:
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 1
+    UP_WARM_UPS: 1
   response: 7E80462F43001
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 2
+    UP_WARM_UPS: 2
   response: 7E80462F43002
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 3
+    UP_WARM_UPS: 3
   response: 7E80462F43003
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 9
+    UP_WARM_UPS: 9
   response: 7E80462F43009
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 10
+    UP_WARM_UPS: 10
   response: 7E80462F4300A
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 11
+    UP_WARM_UPS: 11
   response: 7E80462F4300B
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 14
+    UP_WARM_UPS: 14
   response: 7E80462F4300E
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 15
+    UP_WARM_UPS: 15
   response: 7E80462F4300F
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 19
+    UP_WARM_UPS: 19
   response: 7E80462F43013
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 25
+    UP_WARM_UPS: 25
   response: 7E80462F43019

@@ -1,11 +1,11 @@
 command_id: 714.77E.2222E0
 test_cases:
 - expected_values:
-    VOLKSWAGEN_RANGE_DSP: 26
+    UP_RANGE_DSP: 26
   response: 77E056222E0001A
 - expected_values:
-    VOLKSWAGEN_RANGE_DSP: 255
+    UP_RANGE_DSP: 255
   response: 77E056222E000FF
 - expected_values:
-    VOLKSWAGEN_RANGE_DSP: 276
+    UP_RANGE_DSP: 276
   response: 77E056222E00114

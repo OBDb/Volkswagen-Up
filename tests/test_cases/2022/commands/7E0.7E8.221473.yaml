@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221473
 test_cases:
 - expected_values:
-    VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_2: 0
+    UP_INJ_7_RAIL_P_CAL_PT_2: 0
   response: '7E8056214730000'
 - expected_values:
-    VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_2: 1
+    UP_INJ_7_RAIL_P_CAL_PT_2: 1
   response: '7E8056214730014'
 - expected_values:
-    VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_2: 12.6
+    UP_INJ_7_RAIL_P_CAL_PT_2: 12.6
   response: 7E80562147300FC
 - expected_values:
-    VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_2: 13.7
+    UP_INJ_7_RAIL_P_CAL_PT_2: 13.7
   response: '7E8056214730112'
