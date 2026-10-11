@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.2251E0
 test_cases:
 - expected_values:
-    VOLKSWAGEN_HVBAT_SOH: 84.836
+    UP_HVBAT_SOH: 84.836
   response: 7ED056251E039EE
 - expected_values:
-    VOLKSWAGEN_HVBAT_SOH: 89.789
+    UP_HVBAT_SOH: 89.789
   response: 7ED056251E03A15

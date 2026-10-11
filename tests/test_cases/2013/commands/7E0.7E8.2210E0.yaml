@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210E0
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ODO_2_V3: 124416
+    UP_ODO_7E0: 124416
   response: 7E8076210E00001E600
 - expected_values:
-    VOLKSWAGEN_ODO_2_V3: 124427
+    UP_ODO_7E0: 124427
   response: 7E8076210E00001E60B
