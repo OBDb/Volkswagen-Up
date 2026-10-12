@@ -108,7 +108,6 @@ unsupported_commands_by_ecu:
   "714":
   - 714.22202F
   - '714.222203'
-  - '714.222294'
   - 714.22229A
   - 714.2222B0
   - '714.222613'
@@ -118,6 +117,7 @@ unsupported_commands_by_ecu:
   - 714.77E.22220C
   - 714.77E.222211
   - 714.77E.22224B|fc=1:UP_OIL_WEAR
+  - 714.77E.222294|fc=1:UP_DTE
   - 714.77E.222299|fc=1:UP_FUEL_AVG
   - 714.77E.2222B8
   - 714.77E.2222E0:UP_RANGE_DSP
