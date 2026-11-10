@@ -696,9 +696,9 @@
   "signals": [
     {"id": "UP_P_BEFORE_THROTTLE", "path": "Engine", "fmt": { "len": 16, "max": 2559.96, "mul": 21333, "div": 546125, "unit": "unknown" }, "name": "Pressure before throttle valve - sensor measured"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11F0"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11F0"}, "freq": 0.25,
   "signals": [
-    {"id": "UP_ACT_TURBO_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 2, "unit": "bars" }, "name": "Actual turbo boost"}
+    {"id": "UP_ACT_TURBO_BOOST", "path": "Engine", "fmt": { "len": 16, "max": 511, "div": 128, "unit": "kilopascal" }, "name": "Actual turbo boost", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11FF"}, "freq": 1,
   "signals": [
